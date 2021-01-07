@@ -2,7 +2,7 @@
 
 :heart: I love building apps, solving problems, and bringing visions to life.
 <br><br>
-:floppy_disk:  Currently I am making [Chit Chat](https://github.com/mhyusuf/chit-chat.git) and [Book Circle](https://github.com/Matt-Hurst/bookCircle.git) even better.
+:floppy_disk:  Currently I am making [Chit Chat](https://github.com/mhyusuf/chit-chat.git) and [Book Circle](https://github.com/Matt-Hurst/BookCircle-TDD) even better.
 <br><br>
 :mag_right: Find out more about me through my [portfolio](https://www.matthew-hurst.com/) and [linkedIn](https://www.linkedin.com/in/matthew-a-hurst/).
 <br><br>
